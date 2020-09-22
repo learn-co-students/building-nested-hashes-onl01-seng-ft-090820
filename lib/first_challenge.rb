@@ -19,5 +19,12 @@ def first_challenge
       ]
    }
 }
-  end
+#  end
+#end
+
+def first_challenge
+   epic_tragedy = {
+     :montague => {},
+     :capulet => {}
+   }
 end
